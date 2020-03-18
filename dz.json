@@ -91,14 +91,12 @@
 {"number":"89","name":"Echorouk FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Echorouk%20FM.png","streamUrl":"http://listen.radionomy.com/radio-hawana?;stream.mp3","yourmuzeId":"0","state":"1"},  
 {"number":"100","name":"Jil FM Zik(Kabyle FM)","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Jil%20FM%20Zik.jpg","streamUrl":"http://jil-fm_music.ice.infomaniak.ch/jil-fmmusic-32.aac","yourmuzeId":"0","state":"1"},  
 {"number":"101","name":"Radio Antinea","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Antinea.jpg","streamUrl":"https://www.radioking.com/play/antinea/61756","yourmuzeId":"0","state":"1"},  
-{"number":"102","name":"Radio Bouira","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Bouira.jpg","streamUrl":"http://bouira.ice.infomaniak.ch/10.aac","yourmuzeId":"0","state":"1"},  
-{"number":"103","name":"Radio Djelfa","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Djelfa.jpg","streamUrl":"http://djelfa.ice.infomaniak.ch/17.aac","yourmuzeId":"0","state":"1"},  
-{"number":"104","name":"Radio Djjad","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Djjad.jpg","streamUrl":"http://listen.radionomy.com/djjad","yourmuzeId":"0","state":"1"},  
-{"number":"105","name":"Radio Elite","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Elite.png","streamUrl":"http://listen.radionomy.com/radioelitedz?;stream.mp3","yourmuzeId":"0","state":"1"},
-{"number":"106","name":"Radio Thileli","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Thileli.png","streamUrl":"https://ia801002.us.archive.org/10/items/Matoub-Lounes-best-of/12.mp3","yourmuzeId":"0","state":"1"},  
-{"number":"107","name":"Radio Tindouf","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Tindouf.png","streamUrl":"http://tindouf.ice.infomaniak.ch/37.aac","yourmuzeId":"0","state":"1"},  
-{"number":"108","name":"Radio Tiziri","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Tiziri.jpg","streamUrl":"http://149.56.147.197:9408/stream","yourmuzeId":"0","state":"1"},  
-{"number":"109","name":"Radio Web Amazigh","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Web%20Amazigh.png","streamUrl":"http://chaine2music.ice.infomaniak.ch/ch2music.aac","yourmuzeId":"0","state":"1"},  
+{"number":"102","name":"Radio Djjad","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Djjad.jpg","streamUrl":"http://listen.radionomy.com/djjad","yourmuzeId":"0","state":"1"},  
+{"number":"103","name":"Radio Elite","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Elite.png","streamUrl":"http://listen.radionomy.com/radioelitedz?;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"104","name":"Radio Thileli","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Thileli.png","streamUrl":"https://ia801002.us.archive.org/10/items/Matoub-Lounes-best-of/12.mp3","yourmuzeId":"0","state":"1"},  
+{"number":"105","name":"Radio Tindouf","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Tindouf.png","streamUrl":"http://tindouf.ice.infomaniak.ch/37.aac","yourmuzeId":"0","state":"1"},  
+{"number":"106","name":"Radio Tiziri","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Tiziri.jpg","streamUrl":"http://149.56.147.197:9408/stream","yourmuzeId":"0","state":"1"},  
+{"number":"107","name":"Radio Web Amazigh","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/dz/master/Radio%20Web%20Amazigh.png","streamUrl":"http://chaine2music.ice.infomaniak.ch/ch2music.aac","yourmuzeId":"0","state":"1"},  
  
   
 
