@@ -69,7 +69,6 @@
 {"number":"67","name":"Radio SKIKDA","description":"","logo":"/z_radio_skikda.png","streamUrl":"http://skikda.ice.infomaniak.ch/21.aac","yourmuzeId":"105291","state":"1"},
 {"number":"68","name":"Radio SOLEIL","description":"http://soleilparis.scdn.arkena.com/soleilparis.mp3","logo":"/z_radio_soleil.png","streamUrl":"http://heberg.radioludo.com:8009/stream","yourmuzeId":"0","state":"1"},
 {"number":"69","name":"Radio BOUIRA FM","description":"","logo":"/z_radio_algerienne.png","streamUrl":"http://bouira.ice.infomaniak.ch/10.aac","yourmuzeId":"107140","state":"1"},
-{"number":"70","name":"Radio MSILA","description":"","logo":"/z_radio_algerienne.png","streamUrl":"http://msila.ice.infomaniak.ch/28.aac","yourmuzeId":"99508","state":"1"},
 {"number":"71","name":"Radio TEBESSA","description":"","logo":"/z_radio_tebessa.png","streamUrl":"http://radiotebessa.ice.infomaniak.ch/12.aac","yourmuzeId":"103794","state":"1"},
 {"number":"72","name":"Radio El Oued SOUF FM","description":"","logo":"/z_radio_oued_souf.png","streamUrl":"http://eloued.ice.infomaniak.ch/39.aac","yourmuzeId":"107141","state":"1"},
 {"number":"73","name":"Radio Illizi","description":"","logo":"/z_radio_oued_souf.png","streamUrl":"http://illizi.ice.infomaniak.ch/33.aac","yourmuzeId":"103793","state":"1"},
@@ -98,6 +97,7 @@
 {"number":"105","name":"Radio Tindouf","description":"","logo":"/Radio%20Tindouf.png","streamUrl":"http://tindouf.ice.infomaniak.ch/37.aac","yourmuzeId":"0","state":"1"},  
 {"number":"106","name":"Radio Tiziri","description":"","logo":"/Radio%20Tiziri.jpg","streamUrl":"http://149.56.147.197:9408/stream","yourmuzeId":"0","state":"1"},  
 {"number":"107","name":"Radio Web Amazigh","description":"","logo":"/Radio%20Web%20Amazigh.png","streamUrl":"http://chaine2music.ice.infomaniak.ch/ch2music.aac","yourmuzeId":"0","state":"1"},  
+{"number":"108","name":"Radio MSILA","description":"","logo":"/z_radio_algerienne.png","streamUrl":"http://msila.ice.infomaniak.ch/28.aac","yourmuzeId":"0","state":"1"},
  
   
 
