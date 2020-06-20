@@ -76,9 +76,9 @@
 {"number":"75","name":"Radio IDURAR","description":"","logo":"/z_radio_idurar.png","streamUrl":"https://ch2.ice.infomaniak.ch/ch2-64.aac","yourmuzeId":"0","state":"1"},
  
 {"number":"76","name":"Rire Alg\u00e9rie","description":"http://listen.radionomy.com/rirealgerie.m3u","logo":"/z_radio_rire_algerie.png","streamUrl":"http://streaming.radionomy.com/RireAlgerie","yourmuzeId":"0","state":"1"},
-{"number":"77","name":"Radio Blida","description":"","logo":"/z_radio_blida.png","streamUrl":"http://blida.ice.infomaniak.ch/09.aac","yourmuzeId":"104798","state":"1"},
+{"number":"77","name":"Radio Blida","description":"","logo":"/z_radio_blida.png","streamUrl":"https://blida.ice.infomaniak.ch/09.aac","yourmuzeId":"104798","state":"1"},
 {"number":"78","name":"Radio OUARGLA","description":"","logo":"/z_radio_ouargla.png","streamUrl":"http://ouargla.ice.infomaniak.ch/30.aac","yourmuzeId":"105293","state":"1"},
-{"number":"79","name":"Radio El Bayadh","description":"","logo":"/z_radio_el_bayadh.png","streamUrl":"http://bayadh.ice.infomaniak.ch/32.aac","yourmuzeId":"105285","state":"1"},
+{"number":"79","name":"Radio El Bayadh","description":"","logo":"/z_radio_el_bayadh.png","streamUrl":"https://bayadh.ice.infomaniak.ch/32.aac","yourmuzeId":"105285","state":"1"},
 {"number":"80","name":"Radio Naama FM","description":"","logo":"/z_radio_naama_fm.png","streamUrl":"http://naama.ice.infomaniak.ch:80/45.aac","yourmuzeId":"104832","state":"1"},
 {"number":"81","name":"Radio GUELMA","description":"http://www.radio-guelma.dz/son/02.mp3\r\nhttp://41.200.255.62:8000/live.m3u","logo":"/z_radio_guelma.png","streamUrl":"http://guelma.ice.infomaniak.ch/24.aac","yourmuzeId":"0","state":"1"},
 {"number":"82","name":"Radio KHENCHLA","description":"","logo":"/z_radio_khenchla.png","streamUrl":"http://khenchla.ice.infomaniak.ch/40.aac","yourmuzeId":"105292","state":"1"},
