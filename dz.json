@@ -84,7 +84,7 @@
 {"number":"82","name":"Radio KHENCHLA","description":"","logo":"/z_radio_khenchla.png","streamUrl":"http://khenchla.ice.infomaniak.ch/40.aac","yourmuzeId":"105292","state":"1"},
 {"number":"83","name":"Radio EL TARF","description":"","logo":"/z_radio_taref.png","streamUrl":"http://eltarf.ice.infomaniak.ch/36.aac","yourmuzeId":"105282","state":"1"},
 {"number":"84","name":"Dima FM","description":"","logo":"/z_radio_dimafm.png","streamUrl":"http://listen.radionomy.com/DimaFm","yourmuzeId":"0","state":"1"},
-{"number":"85","name":"Radio Al Quran","description":"","logo":"/z_radio_al_quran.png","streamUrl":"http://listen.radionomy.com/radioalquran","yourmuzeId":"0","state":"1"},
+{"number":"85","name":"Radio Al Quran","description":"","logo":"/z_radio_al_quran.png","streamUrl":"http://radiocoran-culture.ice.infomaniak.ch/coran.aac","yourmuzeId":"0","state":"1"},
 {"number":"86","name":"Cheb Cheba","description":"","logo":"/Cheb%20Cheba.jpg","streamUrl":"http://listen.radionomy.com/chebcheba","yourmuzeId":"0","state":"1"},
 {"number":"87","name":"radio djaam","description":"","logo":"/Djam%20Radio.jpg","streamUrl":"http://listen.radionomy.com/djaam","yourmuzeId":"0","state":"1"},  
 {"number":"88","name":"Djazair FM","description":"","logo":"/Djazair%20FM.png","streamUrl":"http://listen.radionomy.com/djazair-fm","yourmuzeId":"0","state":"1"},  
