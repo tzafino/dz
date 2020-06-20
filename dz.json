@@ -73,7 +73,7 @@
 {"number":"72","name":"Radio El Oued SOUF FM","description":"","logo":"/z_radio_oued_souf.png","streamUrl":"http://eloued.ice.infomaniak.ch/39.aac","yourmuzeId":"107141","state":"1"},
 {"number":"73","name":"Radio Illizi","description":"","logo":"/z_radio_oued_souf.png","streamUrl":"http://illizi.ice.infomaniak.ch/33.aac","yourmuzeId":"103793","state":"1"},
 {"number":"74","name":"Radio Bou Merdes","description":"","logo":"/z_radio_bou_merdes.png","streamUrl":"http://boumerdes.ice.infomaniak.ch/35.aac","yourmuzeId":"97226","state":"1"},
-{"number":"75","name":"Radio IDURAR","description":"","logo":"/z_radio_idurar.png","streamUrl":"http://ch2.ice.infomaniak.ch/ch2-64.aa","yourmuzeId":"0","state":"1"},
+{"number":"75","name":"Radio IDURAR","description":"","logo":"/z_radio_idurar.png","streamUrl":"https://ch2.ice.infomaniak.ch/ch2-64.aac","yourmuzeId":"0","state":"1"},
  
 {"number":"76","name":"Rire Alg\u00e9rie","description":"http://listen.radionomy.com/rirealgerie.m3u","logo":"/z_radio_rire_algerie.png","streamUrl":"http://streaming.radionomy.com/RireAlgerie","yourmuzeId":"0","state":"1"},
 {"number":"77","name":"Radio Blida","description":"","logo":"/z_radio_blida.png","streamUrl":"http://blida.ice.infomaniak.ch/09.aac","yourmuzeId":"104798","state":"1"},
