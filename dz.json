@@ -51,7 +51,7 @@
 {"number":"49","name":"Radio ANNABA","description":"","logo":"/z_radio_annaba.png","streamUrl":"http://annaba.ice.infomaniak.ch/23.aac","yourmuzeId":"100072","state":"1"},
 {"number":"50","name":"Radio RELIZANE","description":"","logo":"/z_radio_algerienne.png","streamUrl":"http://relizane.ice.infomaniak.ch/48.aac","yourmuzeId":"104817","state":"1"},
 {"number":"51","name":"Radio ORAN (El Bahia FM)","description":"","logo":"/z_radio_oran.png","streamUrl":"http://oran.ice.infomaniak.ch/31.aac","yourmuzeId":"105283","state":"1"},
-{"number":"52","name":"Radio BISKRA","description":"","logo":"/z_radio_biskra.png","streamUrl":"http://biskra.ice.infomaniak.ch/07.aac?","yourmuzeId":"0","state":"1"},
+{"number":"52","name":"Radio BISKRA","description":"","logo":"/z_radio_biskra.png","streamUrl":"http://biskra.ice.infomaniak.ch/07.aac","yourmuzeId":"0","state":"1"},
 {"number":"53","name":"Radio AIN DEFLA","description":"","logo":"/z_radio_ain_defla.png","streamUrl":"http://aindefla.ice.infomaniak.ch/44.aac","yourmuzeId":"101452","state":"1"},
 {"number":"54","name":"Radio BATNA","description":"","logo":"/z_radio_algerienne.png","streamUrl":"http://batna.ice.infomaniak.ch/05.aac","yourmuzeId":"107138","state":"1"},
 {"number":"55","name":"Radio BECHAR (SAOURA)","description":"","logo":"/z_radio_bechar.png","streamUrl":"http://bechar.ice.infomaniak.ch/08.aac","yourmuzeId":"105287","state":"1"},
